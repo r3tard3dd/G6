@@ -1,5 +1,9 @@
 # ChangeLog
 
+#### 3.8
+
+- feat: edge filter lens plugin.
+
 #### 3.7.2
 
 - fix: toolbar redo undo addItem with type problem, closes #2043;
