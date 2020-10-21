@@ -3,7 +3,7 @@ title: Using multiple modes
 order: 7
 ---
 
-In this chapter, we will introduce the interactions in G6 by adding nodes and edges. You nee to be familiar with the following before reading this chapter:
+In this chapter, we will introduce the interactions in G6 by adding nodes and edges. You need to be familiar with the following before reading this chapter:
 
 - [Custom Behavior](/en/docs/manual/middle/states/custom-behavior);
 - [Mode](/en/docs/manual/middle/states/mode).
